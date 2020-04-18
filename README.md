@@ -1,7 +1,7 @@
-# This website built with [Gatsby](https://www.gatsbyjs.org/) site generation & [Sanity.io](https://www.sanity.io) CMS API
+## This website built with [Gatsby](https://www.gatsbyjs.org/) site generation & [Sanity.io](https://www.sanity.io) CMS API
 
 
-## Installation
+### Installation
 
 ```sh
 git clone https://github.com/jimmyromanticdevil/rahmatramadhan.com
@@ -17,7 +17,7 @@ npm run init
 ```
 
 
-## Development setup
+### Development setup
 
 ### Run it
 
@@ -29,7 +29,7 @@ npm start
 ```
 
 
-## Deployment
+### Deployment
 
 ```sh
 # Deploy a GraphQL API and schema to Sanity
@@ -42,7 +42,7 @@ npm run sanity-deploy
 npm run now-deploy
 ```
 
-## Learn more
+### Learn more
 
 [![Watch a video about the company website built with Gatsby using Sanity.io as a headless CMS](https://cdn.sanity.io/images/3do82whm/production/4f652e6d114e7010aa633b81cbcb97c335980fc8-1920x1080.png?w=500)](https://www.youtube.com/watch?v=STtpXBvJmDA)
 
@@ -58,6 +58,6 @@ Read more [the blog post](https://www.sanity.io/blog/get-started-with-gatsby-and
 
 [you can read all about gatsby.js here](https://www.gatsbyjs.org/tutorial/).
 
-## License
+### License
 
 MIT
