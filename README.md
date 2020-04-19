@@ -1,5 +1,6 @@
 ## This website built with [Gatsby](https://www.gatsbyjs.org/) site generation & [Sanity.io](https://www.sanity.io) CMS API
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/044240f2-ee5e-4b25-b59a-6acff2c2fac6/deploy-status)](https://app.netlify.com/sites/rahmatramadhan/deploys)
 
 ### Installation
 
